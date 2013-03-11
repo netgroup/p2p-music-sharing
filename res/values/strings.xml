@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Playlist Demo</string>
+    <string name="nosong">(No song)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading&#8230;</string>
+</resources>
