@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/loreti/tmp/p2p-music-sharing/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Music Playlist Demo</string>
+    <string name="artist">Artist</string>
+    <string name="cancel">Cancel</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading…</string>
+    <string name="loading">Loading…</string>
+    <string name="next">Next</string>
+    <string name="nosong">(No song)</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="previous">Previous</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching…</string>
+    <string name="title">Title</string>
+    <!-- From: file:/Users/loreti/tmp/p2p-music-sharing/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

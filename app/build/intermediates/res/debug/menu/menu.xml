@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_search" android:title="@string/search" />
+</menu><!-- From: file:/Users/loreti/tmp/p2p-music-sharing/app/src/main/res/menu/menu.xml -->
